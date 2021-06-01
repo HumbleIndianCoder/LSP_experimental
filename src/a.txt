@@ -1,0 +1,10 @@
+a.txt
+dest.txt
+getchar
+getchar.c
+input.txt
+open
+open.c
+readwrite
+readwrite.c
+source.txt
